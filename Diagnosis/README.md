@@ -19,9 +19,11 @@
  + Labs:
    + [Data Exploration & Image Pre-Processing](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week1/C1_W1_Lab_1_data_exploration_and_image_preprocessing.ipynb)
    
-Counting labels and weighted loss function
-Densenet
-Patient Overlap - Practice
+   + [Counting labels and weighted loss function](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week1/C1_W1_Lab_2_counting_labels_and_weighted_loss_function.ipynb)
+   
+   + [Densenet](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week1/C1_W1_Lab_3_densenet.ipynb)
+   
+   + [Patient Overlap and Data Leakage](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week1/C1_W1_Lab_4_patient_overlap_and_data_leakage.ipynb)
 
 
 ## Week 2 : Learning Objective
