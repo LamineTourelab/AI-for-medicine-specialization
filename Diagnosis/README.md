@@ -33,7 +33,7 @@
 + Understand confidence intervals, ROC curve, and F1 score.
 
  + Assignment:
-    +  [Evaluation of Diagnostic Models]([https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week1/C1_W1_Assignment.ipynb](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week2/C1_W2_Assignment.ipynb)
+    +  [Evaluation of Diagnostic Models](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week2/C1_W2_Assignment.ipynb)
  +  Lab
     + [ROC Curve and Threshold](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week2/C1_W2_Lab_1_roc_curve%20_and_threshold.ipynb)
   
