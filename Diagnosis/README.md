@@ -32,6 +32,12 @@
 + Calculate Positive Predictive Value (PPV) and Negative Predictive Value (NPV).
 + Understand confidence intervals, ROC curve, and F1 score.
 
+ + Assignment:
+    +  [Evaluation of Diagnostic Models]([https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week1/C1_W1_Assignment.ipynb](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week2/C1_W2_Assignment.ipynb)
+ +  Lab
+    + [ROC Curve and Threshold](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week2/C1_W2_Lab_1_roc_curve%20_and_threshold.ipynb)
+  
+
 ## Week 2 : Learning Objective
 + Perform image segmentation on 3D MRI data.
 + Take random sub-samples from a 3D image.
