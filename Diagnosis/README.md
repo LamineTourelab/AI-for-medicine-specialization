@@ -16,8 +16,9 @@
  + Assignment:
    +  [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week1/C1_W1_Assignment.ipynb)
   
-Labs:
-Data Exploration & Image Pre-Processing
+ + Labs:
+   + [Data Exploration & Image Pre-Processing](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week1/C1_W1_Lab_1_data_exploration_and_image_preprocessing.ipynb)
+   
 Counting labels and weighted loss function
 Densenet
 Patient Overlap - Practice
