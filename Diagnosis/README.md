@@ -13,8 +13,8 @@
 + Implement a weighted loss function to address class imbalance.
 + Set up a pre-trained neural network to make disease predictions on chest x-rays.
 
-++ Assignment:
- +++ Chest X-Ray Medical Diagnosis with Deep Learning
+ + Assignment:
+  + [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week1/C1_W1_Assignment.ipynb)
 Labs:
 Data Exploration & Image Pre-Processing
 Counting labels and weighted loss function
