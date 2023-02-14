@@ -34,14 +34,20 @@
 
  + Assignment:
     +  [Evaluation of Diagnostic Models](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week2/C1_W2_Assignment.ipynb)
- +  Lab
+ +  Lab :
     + [ROC Curve and Threshold](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week2/C1_W2_Lab_1_roc_curve%20_and_threshold.ipynb)
   
 
-## Week 2 : Learning Objective
+## Week 3 : Learning Objective
 + Perform image segmentation on 3D MRI data.
 + Take random sub-samples from a 3D image.
 + Standardize an input image.
 + Apply a pre-trained U-Net model.
 + Implement a proper loss function for model training (soft dice loss).
 + Evaluate model performance by calculating sensitivity and specificity.
+ + Assignment:
+    - [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week3/C1_W3_Assignment.ipynb)
+ + Lab :
+    - [Explore MRI Data and Labels](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week3/C1_W3_Lab_1_explore_mri_data_and_labels.ipynb)
+    - [Extract a Sub Section](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week3/C1_W3_Lab_2_extract_a_sub_section.ipynb)
+    - [U-Net Model](https://github.com/LamineTou/AI-for-medicine-specialization/blob/main/Diagnosis/Week3/C1_W3_Lab_3_unet_model.ipynb)
