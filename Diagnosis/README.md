@@ -13,6 +13,15 @@
 + Implement a weighted loss function to address class imbalance.
 + Set up a pre-trained neural network to make disease predictions on chest x-rays.
 
+++ Assignment:
+ +++ Chest X-Ray Medical Diagnosis with Deep Learning
+Labs:
+Data Exploration & Image Pre-Processing
+Counting labels and weighted loss function
+Densenet
+Patient Overlap - Practice
+
+
 ## Week 2 : Learning Objective
 + Calculate true positives, true negatives, false positives, false negatives.
 + Calculate sensitivity and specificity
