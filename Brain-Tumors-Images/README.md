@@ -3,6 +3,8 @@
 
 These images data are from Brain MRI Images for Brain Tumor Detection. It conists of MRI scans of two classes:
 
-<b>NO - no tumor, encoded as 0</b\n>
-<b>YES - tumor, encoded as 1</b>\n
+<b>NO - no tumor, encoded as 0</b>
+
+<b>YES - tumor, encoded as 1</b>
+
 Unfortunately, the data set description doesn't hold any information where this MRI scans come from and so on.
