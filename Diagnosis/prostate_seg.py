@@ -29,3 +29,19 @@ channel = 0
 print(f"Plotting Layer {i} Channel {channel} of Image")
 plt.imshow(image_data[:, :, i, channel], cmap='gray')
 plt.axis('off');
+
+# set home directory and data directory
+HOME_DIR = "C:\Users\Lamine\Downloads\AI-for-medicine-specialization\Data-MSD-images\Task05_Prostate\"
+DATA_DIR = HOME_DIR
+
+def load_case(image_nifty_file, label_nifty_file):
+    # load the image and label file, get the image content and return a numpy array for each
+    image = np.array(nib.load(image_nifty_file).get_fdata())
+    label = np.array(nib.load(label_nifty_file).get_fdata())
+    
+    return image, label
+
+image, label = load_case(DATA_DIR + "imagesTr\prostate_00.nii.gz", DATA_DIR + "labelsTr\prostate_00.nii.gz")
+image = get_labeled_image(image, label)
+
+plot_image_grid(image)
